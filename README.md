@@ -1,2 +1,2 @@
-# SICU2001.github.io
+# sicupath.github.io
 This is my portfolio
